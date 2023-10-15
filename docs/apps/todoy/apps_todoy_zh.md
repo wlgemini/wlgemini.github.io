@@ -10,6 +10,6 @@
 
 在使用`Todoy`过程中有任何问题, 请邮件联系:
 
-[`todoy.app@outlook.com`](todoy.app@outlook.com)
+<todoy.app@outlook.com>
 
 感谢!
