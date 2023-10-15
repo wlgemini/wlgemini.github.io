@@ -4,4 +4,4 @@ Swift developer
 
 ## Apps
 
-- [Todoy](apps/todoy/apps_todoy.md)
+- [Todoy](apps/todoy/apps_todoy_zh.md)
