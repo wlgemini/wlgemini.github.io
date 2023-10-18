@@ -1,6 +1,6 @@
-# Todoy
-
 <img src="resources/mac_app_icon1024.png" title="icon" height="128px" width="128px">
+
+# Todoy
 
 使用`Todoy`你可以:
 
