@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [辣锅老王]
-# description: [A short description of your site's purpose]
+description: [Swift developer]
