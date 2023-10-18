@@ -1,5 +1,7 @@
 # Todoy
 
+<img src="resources/mac_app_icon1024.png" title="icon" height="128px" width="128px">
+
 使用`Todoy`你可以:
 
 - `速记`: 通过快捷键, 快速记录.
