@@ -15,3 +15,7 @@
 <todoy.app@outlook.com>
 
 感谢!
+
+## 隐私政策
+
+访问[隐私政策](resources/privacy_policy.md)
